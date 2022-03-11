@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7141eb9b.css",
+    "main.js": "/static/js/main.cd5f40d3.js",
+    "static/media/coverVideo.mp4": "/static/media/coverVideo.7e0589fa5f3cab70471e.mp4",
+    "static/media/fotoPerfil.png": "/static/media/fotoPerfil.fac6d842ee7c33337c4c.png",
+    "static/media/sliderAlkemy.png": "/static/media/sliderAlkemy.92d4ab7f366cbbe18f8b.png",
+    "static/media/sliderHtml.png": "/static/media/sliderHtml.0c1ce999496d74108a7f.png",
+    "static/media/sliderCv.png": "/static/media/sliderCv.f5a4fdc5dc88757a7db2.png",
+    "index.html": "/index.html",
+    "main.7141eb9b.css.map": "/static/css/main.7141eb9b.css.map",
+    "main.cd5f40d3.js.map": "/static/js/main.cd5f40d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7141eb9b.css",
+    "static/js/main.cd5f40d3.js"
+  ]
+}
